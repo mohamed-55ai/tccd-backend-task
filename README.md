@@ -72,3 +72,6 @@ This opens the interactive Swagger UI where you can test all endpoints.
 ## Notes
 - The database (`shop.db`) is created automatically on first run — no manual setup needed.
 - All endpoints can be tested directly from the Swagger UI at `/docs`.
+
+
+
